@@ -1,0 +1,11 @@
+ 
+.vscode/extensões.json
+@@ -0,0 +1,8 @@
+{
+  "recomendações" : [
+    " esbenp.prettier-vscode " ,
+    " PKief.material-icon-tema " ,
+    " rocketseat.theme-omni " ,
+    " ritwickdey.LiveServer "
+  ]
+}
